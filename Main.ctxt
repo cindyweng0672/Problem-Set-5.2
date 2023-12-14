@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=
+comment1.target=void\ Main()
+comment2.params=
+comment2.target=void\ findPI()
+comment2.text=\n\ find\ the\ closest\ fraction\ to\ PI\n
+comment3.params=
+comment3.target=void\ fractionQuiz()
+comment3.text=\n\ give\ fraction\ operation\ quizzes\ \n
+comment4.params=
+comment4.target=void\ generateQestions()
+comment4.text=\n\ generate\ fraction\ questions\n\ check\ the\ answer\ \n\ if\ "quit"\ entered,\ end\ the\ quiz\n
+numComments=5
